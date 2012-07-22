@@ -9,5 +9,7 @@ public class MytestActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        // this is a test
+        
     }
 }
