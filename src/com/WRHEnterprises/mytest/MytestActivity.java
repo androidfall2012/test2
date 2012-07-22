@@ -10,6 +10,7 @@ public class MytestActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         // this is a test
+        // this is a second test
         
     }
 }
